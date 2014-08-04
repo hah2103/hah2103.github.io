@@ -1,24 +1,44 @@
-- topic: The Technical Writing Monkey
+- topic: About LibreOffice 4.3
   filename: c-intro.html
   child: false
   publish: true
 
-- topic: How to feed a monkey
-  filename: t-feeding.html
-  child: false
-  publish: true
-
-- topic: How to give iced tea to a monkey
-  filename: t-givingtea.html
+- topic: Compare and Contrast
+  filename: r-comncont.html
   child: true
   publish: true
 
-- topic: How to put a monkey inside a box
-  filename: t-boxing.html
+- topic: How to Download and Install LibreOffice 4.3
+  filename: t-install.html
   child: false
   publish: true
 
-- topic: Nutritional recommendations for monkeys
-  filename: r-nutrition.html
+- topic: How to Use LibreOffice 4.3 as an Alternative
+  filename: t-alternative.html
   child: false
+  publish: true
+
+- topic: How to Write a letter in Writer
+  filename: t-letter.html
+  child: false
+  publish: true
+
+- topic: How to Create a Simple Spreadsheet in Calc
+  filename: t-spreadsheet.html
+  child: false
+  publish: true
+
+- topic: How to Create a Presentation in Impress
+  filename: t-presentation.html
+  child: false
+  publish: true
+
+- topic: Help
+  filename: r-help.html
+  child: false
+  publish: true
+
+- topic: FAQ
+  filename: r-faq.html
+  child: true
   publish: true
