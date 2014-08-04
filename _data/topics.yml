@@ -33,7 +33,7 @@
   child: false
   publish: true
 
-- topic: Help
+- topic: Need Help?
   filename: r-help.html
   child: false
   publish: true
